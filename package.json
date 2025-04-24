@@ -19,7 +19,7 @@
     "tsparticles": "^3.8.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://dhruvbihani3478.github.io/frosh-landing-page",
+  "homepage": "https://dhruvbihani3478.github.io/frosh-2025-landing-page",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
