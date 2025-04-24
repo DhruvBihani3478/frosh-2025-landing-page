@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/frosh-landing-page/static/css/main.c9cdf3a4.css",
-    "main.js": "/frosh-landing-page/static/js/main.5b1c100a.js",
-    "index.html": "/frosh-landing-page/index.html",
-    "main.c9cdf3a4.css.map": "/frosh-landing-page/static/css/main.c9cdf3a4.css.map",
-    "main.5b1c100a.js.map": "/frosh-landing-page/static/js/main.5b1c100a.js.map"
+    "main.css": "/frosh-2025-landing-page/static/css/main.c9cdf3a4.css",
+    "main.js": "/frosh-2025-landing-page/static/js/main.5b1c100a.js",
+    "index.html": "/frosh-2025-landing-page/index.html",
+    "main.c9cdf3a4.css.map": "/frosh-2025-landing-page/static/css/main.c9cdf3a4.css.map",
+    "main.5b1c100a.js.map": "/frosh-2025-landing-page/static/js/main.5b1c100a.js.map"
   },
   "entrypoints": [
     "static/css/main.c9cdf3a4.css",
